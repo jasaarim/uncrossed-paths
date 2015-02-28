@@ -1,2 +1,2 @@
 # uncrossed-paths
-Finding uncrossed knights paths on NxM board
+Finding uncrossed knight's paths on NxM board.  Experimenting with Haskell.
